@@ -1,6 +1,7 @@
+/*
 Prolem Link-> https://www.spoj.com/problems/NAJPF/
 Reference Video -> https://youtu.be/gNDIOqdAJiw?si=HAsVxART54YUT0d0
-
+*/
 
 void solve() {
 	string s1, s2;
